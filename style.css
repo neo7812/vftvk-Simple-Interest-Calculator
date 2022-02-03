@@ -1,4 +1,56 @@
-body {background-color:tan;}
-h1{color:green;}
+body 
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial;
+}
 
+h1
+{
+    color: grey;
+    font-family: Verdana;
+}
+
+.div1
+{
+    background-color: #ffffff;
+    color: #000000;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div2
+{
+    margin-left: 80px;
+}
+
+table td
+{
+    padding-bottom: 10px;
+}
+
+.yellowcoloring
+{
+    background-color: #ffff00;
+}
+
+#compute
+{
+    margin-bottom: 10px;
+    
+}
+
+#footer
+{
+    margin-top: 10px;
+}
+
+.first
+{
+
+    width: 120px;
+}
 
