@@ -23,6 +23,7 @@ function compute()
                               "</span>" + ", <br> in the year " + "<span class='yellowcoloring'>" + presentyear + "</span>";
 }
 
+
 function SliderValue()
 {
     var slider = document.getElementById("rate");
